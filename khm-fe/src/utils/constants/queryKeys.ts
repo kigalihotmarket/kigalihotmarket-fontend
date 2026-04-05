@@ -1,0 +1,11 @@
+export const USER_PROFILE = ["userProfile"];
+export const ALL_GROUPED_PERMISSIONS = ["groupedPermissions"];
+export const ALL_APP_PERMISSIONS = ["appPermissions"];
+export const ALL_USERS = ["users"];
+export const UPDATE_PASSWORD = ["updatePassword"];
+export const TRANSACTIONS = ["transactions"];
+export const TRANSACTION = ["transaction"];
+export const PRODUCT = ["product"];
+export const ORDER = ["order"];
+export const DELIVERY = ["delivery"];
+export const PAYMENT = ["payment"]
