@@ -114,7 +114,7 @@ const RoutesProvider = () => {
       element: <NotFound />,
       errorElement: <ErrorPage />,
     },
-  ]);
+  ], { future: { v7_startTransition: true } });
   return <RouterProvider router={router} />;
 };
 

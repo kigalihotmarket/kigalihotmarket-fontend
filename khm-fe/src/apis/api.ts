@@ -9,8 +9,6 @@ const ApiClient = () => {
     if (token) {
       request.headers.Authorization = token;
       request.headers.Accept = "application/json";
-    } else {
-      console.warn("No token found in localStorage.");
     }
     request.baseURL = (import.meta as any).env.VITE_BASE_URL;
     return request;
