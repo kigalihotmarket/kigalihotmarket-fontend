@@ -161,6 +161,21 @@ const AboutPage = () => {
             </p>
           </div>
 
+          <div className="text-center">
+            <div className="aspect-w-1 aspect-h-1 rounded-full overflow-hidden mb-4 max-w-[200px] mx-auto">
+              <img
+                src="/images/brand/irene-nayituriki.jpeg"
+                alt="Irene NAYITURIKI portrait"
+                className="w-full h-full object-cover"
+              />
+            </div>
+            <h3 className="text-lg font-medium">Irene NAYITURIKI</h3>
+            <p className="text-primary">Accountant</p>
+            <p className="mt-2 text-gray-600">
+              Manages the company's financial records, budgeting, and ensures accurate reporting across all operations.
+            </p>
+          </div>
+
         </div>
       </div>
 

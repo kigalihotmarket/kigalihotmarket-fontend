@@ -110,8 +110,8 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="h-4 w-4 mt-0.5 text-[#FF4913] flex-shrink-0" />
-                <a href="mailto:kigalihotmarket1@gmail.com" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  kigalihotmarket1@gmail.com
+                <a href="mailto:kigalihotmarket250ltd@gmail.com" className="text-sm text-gray-400 hover:text-white transition-colors">
+                  kigalihotmarket250ltd@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
